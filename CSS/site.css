@@ -55,7 +55,7 @@ main>.container {
     color:blue
 }
 .checklist >li i{
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 code[class*="language-"],
