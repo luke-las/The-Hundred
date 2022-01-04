@@ -1,2 +1,2 @@
-# siteTemplate
-template for JS projects
+# The Hundred excercise
+Simple javascript excercises rendered into a web application.
